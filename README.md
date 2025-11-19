@@ -1,11 +1,11 @@
-Here’s a structured medical summary you can share with her healthcare providers. It organizes her symptoms, investigations, diagnoses, and treatments chronologically and by system to help streamline her care:
+Here is a structured medical summary you can share with her healthcare providers. It organizes her symptoms, investigations, diagnoses, and treatments chronologically and by system to help streamline her care:
 
 ---
 
 ## 🩺 Structured Medical Summary for Clinical Review
 
 ### 👤 Patient Overview
-- **Gender**: Female
+- **Gender**: Male
 - **Age**: Not specified
 - **Weight trend**: 42 kg (Sept 2024) → 39 kg (Mar 2025) → ~35 kg (Nov 2025)
 - **Key concerns**: Chronic abdominal pain, oral burning, fatigue, weight loss, itching, reflux, globus sensation, ear pain, and mucosal changes.
