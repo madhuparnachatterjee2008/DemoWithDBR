@@ -1,4 +1,4 @@
-Here’s a structured medical summary you can share with her healthcare providers. It organizes her symptoms, investigations, diagnoses, and treatments chronologically and by system to help streamline her care:
+Here is a structured medical summary you can share with her healthcare providers. It organizes her symptoms, investigations, diagnoses, and treatments chronologically and by system to help streamline her care:
 
 ---
 
